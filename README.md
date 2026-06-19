@@ -1,6 +1,6 @@
-# Real-Time AI Emotion Detector 🤖
+# Real-Time AI Emotion Detector 
 
-This is a short practice project I built as a stepping stone into machine learning and hardware. The goal was to learn how to link a Python computer vision script with physical Arduino hardware, hopefully paving the way for more complex robotics projects down the line.
+This is a short practice project I built as a stepping stone into machine learning and hardware. The goal was to learn how to link a Python computer vision script with physical Arduino hardware, paving the way for more complex robotics projects down the line.
 
 ## Demo
 [![Emotion Detector Demo](https://img.youtube.com/vi/0H6dIccRrvs/maxresdefault.jpg)](https://www.youtube.com/watch?v=0H6dIccRrvs)
