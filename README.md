@@ -3,7 +3,7 @@
 This is a short practice project I built as a stepping stone into machine learning and hardware. The goal was to learn how to link a Python computer vision script with physical Arduino hardware, paving the way for more complex robotics projects down the line.
 
 ## Demo
-[![Emotion Detector Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Emotion Detector Demo](https://img.youtube.com/vi/0H6dIccRrvs/maxresdefault.jpg)](https://www.youtube.com/watch?v=0H6dIccRrvs)
 
 ## How It Works
 A Python script captures webcam footage and feeds it into a lightweight **ONNX AI model** (FER+) to score 8 different emotions. The script applies a timer to smooth out the data, then sends the result over USB to an Arduino Mega, which updates an LCD screen and changes the color of an RGB LED.
